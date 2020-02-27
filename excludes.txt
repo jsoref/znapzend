@@ -2,7 +2,6 @@
 (?:^|/)go\.sum$
 (?:^|/)package-lock\.json$
 SUMS$
-\.DS_Store$
 \.ai$
 \.bmp$
 \.cer$
@@ -11,6 +10,7 @@ SUMS$
 \.crt$
 \.csr$
 \.dll$
+\.DS_Store$
 \.eot$
 \.eps$
 \.exe$
@@ -47,5 +47,6 @@ SUMS$
 \.xpm$
 \.yml$
 \.zip$
+^CHANGES$
 ^excludes\.txt$
 ^whitelist\.txt$
